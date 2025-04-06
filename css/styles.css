@@ -1,0 +1,106 @@
+@import url(reset.css);
+
+.fs_0 {
+    font-size: 0;
+}
+
+.fs_20 {
+    font-size: 20px;
+}
+
+.w1200 {
+    width: 1200px;
+}
+
+.w400 {
+    width: 400px;
+}
+
+.w800 {
+    width: 800px;
+}
+
+.h400 {
+    height: 400px;
+}
+
+.h200 {
+    height: 200px;
+}
+
+.h133 {
+    height: 133.333px;
+}
+
+.h100 {
+    height: 100px;
+}
+
+.mar0 {
+    margin: 0 auto;
+}
+
+.border {
+    outline: 1px solid #000;
+}
+
+.fon1 {
+    background: #F6FFD4;
+}
+
+.fon2 {
+    background: #DAFBF7;
+}
+
+.fon3 {
+    background: #F9E6F9;
+}
+
+.fonblue {
+    background: darkblue;
+}
+
+.fonlink {
+    background: #b7ddff;
+}
+
+.padd20 {
+    padding: 20px;
+}
+
+.padd1020 {
+    padding: 10px 20px;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.float {
+    float: left;
+}
+
+.flex {
+    display: flex;
+}
+
+.upper {
+    text-transform: uppercase;
+}
+
+.decor {
+    text-decoration: none;
+}
+
+.justify {
+    justify-content: space-evenly;
+}
+
+.color {
+    color: olivedrab;
+}
+
+.radius {
+    border-radius: 4px;
+}
+
